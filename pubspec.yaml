@@ -3,6 +3,7 @@ description: Animation  widget using Hero class .
 version: 0.0.1
 author: amr ragab <web@amr-design.net>
 homepage: http://amr-design.net
+repository : https://github.com/amrdesign/mango
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
